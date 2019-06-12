@@ -1,0 +1,13 @@
+D:\project\maven\maven\localRepository\org\scala-lang\scala-library\2.10.6\scala-library-2.10.6.jar;D:\project\maven\maven\localRepository\com\typesafe\akka\akka-actor_2.10\2.3.14\akka-actor_2.10-2.3.14.jar;D:\project\maven\maven\localRepository\com\typesafe\config\1.2.1\config-1.2.1.jar;D:\project\maven\maven\localRepository\com\typesafe\akka\akka-remote_2.10\2.3.14\akka-remote_2.10-2.3.14.jar;D:\project\maven\maven\localRepository\io\netty\netty\3.8.0.Final\netty-3.8.0.Final.jar;D:\project\maven\maven\localRepository\com\google\protobuf\protobuf-java\2.5.0\protobuf-java-2.5.0.jar;D:\project\maven\maven\localRepository\org\uncommons\maths\uncommons-maths\1.2.2a\uncommons-maths-1.2.2a.jar
+-------
+..\src\main\scala\Work.scala -> ..\src\main\scala\Work.scala
+..\src\main\scala\Master.scala -> ..\src\main\scala\Master.scala
+-------
+..\src\main\scala\Work.scala -> classes\Worker$$anonfun$main$1.class
+..\src\main\scala\Work.scala -> classes\Worker$.class
+..\src\main\scala\Work.scala -> classes\Worker.class
+..\src\main\scala\Work.scala -> classes\Work.class
+..\src\main\scala\Work.scala -> classes\Work$$anonfun$receive$1.class
+..\src\main\scala\Master.scala -> classes\Master$$anonfun$receive$1.class
+..\src\main\scala\Master.scala -> classes\Master$.class
+..\src\main\scala\Master.scala -> classes\Master.class
